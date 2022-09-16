@@ -1,7 +1,6 @@
 Hi, I’m Andrei Bratean (@Brandrei)
 
 I'm a mobile developer currently focusing on the Android platform.
-I share my thoughts on https://devonmobile.net
 
 
 
